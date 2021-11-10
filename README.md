@@ -1,3 +1,9 @@
+# Credit goes to Dev Ed for the inspiration for this project
+
+Original repo: https://github.com/developedbyed/vanilla-todo
+Tutorial for the app: https://www.youtube.com/watch?v=pCA4qpQDZD8
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
